@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium velit quis doloremque quibusdam excepturi ducimus facilis! Accusamus necessitatibus ut sunt numquam hic recusandae nostrum dignissimos ducimus fugiat doloribus repellat ipsam eligendi aspernatur facilis consectetur officiis dolores, delectus nulla culpa deserunt voluptate earum! Optio sit quas et est, consequatur laboriosam tempore doloribus. Nobis porro harum perspiciatis, placeat, similique eum cum, laudantium deleniti atque nesciunt suscipit veritatis voluptas. Placeat eveniet incidunt, vitae minima, adipisci laboriosam vel ab repellat natus sed, quos cum! Quia qui cupiditate voluptas corrupti! Nesciunt voluptates nobis molestiae sunt cum natus dolorem nostrum quod veritatis excepturi beatae porro labore est ducimus consectetur exercitationem tenetur ea perspiciatis minus impedit, optio aliquam libero. Saepe veritatis repellendus maxime. Ipsam omnis sapiente in maxime tenetur accusamus iusto neque nisi dolore soluta, quibusdam, ducimus est sit? Totam impedit excepturi veritatis labore magnam. Harum magni autem sit vel corporis eaque officia sequi commodi officiis illo mollitia iusto, deleniti unde voluptatum, placeat natus assumenda esse ducimus nihil, numquam labore? Nemo exercitationem, maiores dolor sequi sapiente voluptatem architecto, iure, dignissimos cum facere quidem explicabo iste numquam maxime voluptas aliquid deleniti eveniet perferendis repudiandae odio eos dolores suscipit? Est culpa itaque distinctio fugiat quos officia rem quas eius alias, eveniet quia iusto ipsam iste omnis aliquam tempore, consequuntur architecto, suscipit odit voluptatem cum! Officiis eius veritatis neque illo animi soluta, nulla similique nam! Reiciendis, esse a. Molestias dolores iusto, sit, nemo ab illo ea veritatis dolorem nesciunt eaque quia non libero unde reprehenderit debitis incidunt sint dolor! Ad, labore aliquid. Eos nulla incidunt nemo omnis officiis perspiciatis minus esse aperiam beatae vitae, accusantium sint quo nobis iste temporibus veritatis eum, unde animi vero asperiores! Error dolorum cum ex architecto cupiditate nostrum laborum aliquam? Architecto dolor distinctio quia fuga doloribus natus numquam repudiandae eaque veniam ut neque consequatur iste voluptates totam voluptatibus soluta fugiat, rem aliquam dicta suscipit ad expedita maxime asperiores quisquam? Odio quibusdam ipsam accusamus sit perspiciatis, recusandae eius officiis ducimus necessitatibus voluptatum doloribus similique aliquid earum, repellendus cum corrupti, dicta debitis commodi nulla tempora excepturi? Nemo nostrum aliquid commodi voluptates, odio quisquam inventore dignissimos voluptatem eligendi magnam, sed nisi at minima doloremque accusantium. Dolores quae atque saepe nam tempora aliquid nobis animi fugit consequuntur, repudiandae quaerat, obcaecati ducimus, doloribus minus voluptatem odit aperiam! Perspiciatis vel repudiandae velit quibusdam error, asperiores sequi qui facere placeat voluptatum dignissimos, nobis sunt laudantium corporis consequuntur. Sapiente ex inventore cum? Facilis nostrum est rerum eligendi quibusdam? Facere consectetur vel sed, quaerat nam asperiores beatae incidunt rerum libero eaque ab. Quibusdam unde quasi enim aut est possimus, laborum tempora aliquid obcaecati pariatur cum dolore tempore inventore beatae consequuntur sit sint impedit consectetur natus, eligendi dignissimos. Quos, corporis officiis nobis dicta et culpa quasi earum harum asperiores sit praesentium officia eum iusto sint, suscipit illo debitis, maxime quaerat deleniti libero nisi eligendi. Excepturi quam adipisci optio! A quisquam inventore ut placeat accusamus sunt earum vel sapiente harum blanditiis, facere recusandae, non porro perferendis possimus fugiat aliquam iste dicta nemo, distinctio officiis animi veniam!",
+      "author": "Aghogho",
+      "id": 2
+    },
+    {
+      "title": "Second blog",
+      "body": "This will be my second blog. I hope you enjoy reading it.",
+      "author": "Aghogho",
+      "id": 3
+    },
+    {
+      "title": "THERMODYNAMIC SYSTEMS (Systems, Boundary and Surroundings",
+      "body": "Every thermodynamic analysis begins with the specification of a system. A system is simply any object, quantity of matter, or region of space that has been selected for study. The system provides precise specification for the focus of the analysis and enables the use of the First and Second Laws of Thermodynamics. Everything that is not part of the system is referred to as the surroundings.\n\nThe specification of a system requires the identification of its boundary, the surface that separates the system from its surroundings. The system boundary may correspond to a real surface. For example, the figure below illustrates a perfectly-sealed piston-cylinder device that is filled with air. The dashed blue line indicates the boundary of a system that is defined so that it contains all of the air within the cylinder. Notice that the boundary of this system must move to the position of the piston changes.\n\nThe laws of thermodynamics can be applied to any system and often there will be more than one logical system choice for a particular problem. For example. the figure beneath illustrates an air tank that is being filled from an air line. One choice for a system is the fixed region that corresponds to the internal volume of the air tank, An alternative system is defined by the dashed blue lines in the figure so that it contains all of the air that was initially in the tank. Notice that the boundary of this system must move as the tank is filled.",
+      "author": "Emerson",
+      "id": 4
+    },
+    {
+      "title": "PURE SUBSTANCE",
+      "body": "A pure substance is one that has a homogeneous and invariable chemical composition even though there is a change of phase. In other words, it is a system which is (a) homogeneous in composition, (b) homogeneous in chemical aggregation. Examples: Liquid water, mixture of liquid water and steam, mixture of ice and water. The mixture of liquid air and gaseous air is not a pure substance.",
+      "author": "Emerson",
+      "id": 5
+    },
+    {
+      "title": "THERMODYNAMIC SYSTEMS (Systems, Boundary and Surroundings)",
+      "body": "Every thermodynamic analysis begins with the specification of a system. A system is simply any object, quantity of matter, or region of space that has been selected for study. The system provides precise specification for the focus of the analysis and enables the use of the First and Second Laws of Thermodynamics. Everything that is not part of the system is referred to as the surroundings. The specification of a system requires the identification of its boundary, the surface that separates the system from its surroundings. The system boundary may correspond to a real surface. For example, the figure below illustrates a perfectly-sealed piston-cylinder device that is filled with air. The dashed blue line indicates the boundary of a system that is defined so that it contains all of the air within the cylinder. Notice that the boundary of this system must move to the position of the piston changes. The laws of thermodynamics can be applied to any system and often there will be more than one logical system choice for a particular problem. For example. the figure beneath illustrates an air tank that is being filled from an air line. One choice for a system is the fixed region that corresponds to the internal volume of the air tank, An alternative system is defined by the dashed blue lines in the figure so that it contains all of the air that was initially in the tank. Notice that the boundary of this system must move as the tank is filled.",
+      "author": "Aghogho",
+      "id": 6
+    },
+    {
+      "title": "This is a new blog",
+      "body": "blog blog blog blog",
+      "author": "Emerson",
+      "id": 7
+    },
+    {
+      "title": "blah blah blah",
+      "body": "blah",
+      "author": "Mario",
+      "id": 8
+    },
+    {
+      "title": "300 Level 2nd semester",
+      "body": "This has got to be my most stressful semester in school. I just hope that my result will go well",
+      "author": "Aghogho",
+      "id": 9
+    }
+  ]
+}
