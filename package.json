@@ -20,8 +20,9 @@
   "scripts": {
     "start": "concurrently \"npx json-server --watch data/db.json --port 8000\" \"npm run react-start\"",
     "react-start": "react-scripts start",
-    "build": "npm run build-client && json-server --watch db.json",
-    "build-client": "npm run build",
+    "build": "concurrently \"npx json-server --watch data/db.json --port 8000\" \"npm run react-build\"",
+    "react-build": "react-scripts build",
+    "build-client": "build",
     "serve-build": "serve build",
     "copy-data": "cp -r data build/data",
     "test": "react-scripts test",
