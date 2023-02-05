@@ -18,7 +18,7 @@
   "scripts": {
     "start": "concurrently \"npx json-server --watch data/db.json --port 8000\" \"npm run react-start\"",
     "react-start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "concurrently \"npx json-server --watch data/db.json --port 8000\" \"npm run react-start\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

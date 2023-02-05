@@ -7,12 +7,6 @@
       "id": 2
     },
     {
-      "title": "Second blog",
-      "body": "This will be my second blog. I hope you enjoy reading it.",
-      "author": "Aghogho",
-      "id": 3
-    },
-    {
       "title": "THERMODYNAMIC SYSTEMS (Systems, Boundary and Surroundings",
       "body": "Every thermodynamic analysis begins with the specification of a system. A system is simply any object, quantity of matter, or region of space that has been selected for study. The system provides precise specification for the focus of the analysis and enables the use of the First and Second Laws of Thermodynamics. Everything that is not part of the system is referred to as the surroundings.\n\nThe specification of a system requires the identification of its boundary, the surface that separates the system from its surroundings. The system boundary may correspond to a real surface. For example, the figure below illustrates a perfectly-sealed piston-cylinder device that is filled with air. The dashed blue line indicates the boundary of a system that is defined so that it contains all of the air within the cylinder. Notice that the boundary of this system must move to the position of the piston changes.\n\nThe laws of thermodynamics can be applied to any system and often there will be more than one logical system choice for a particular problem. For example. the figure beneath illustrates an air tank that is being filled from an air line. One choice for a system is the fixed region that corresponds to the internal volume of the air tank, An alternative system is defined by the dashed blue lines in the figure so that it contains all of the air that was initially in the tank. Notice that the boundary of this system must move as the tank is filled.",
       "author": "Emerson",
@@ -41,6 +35,12 @@
       "body": "blah",
       "author": "Mario",
       "id": 8
+    },
+    {
+      "title": "Random test  blog ",
+      "body": "This is just a random blog to test the build command that i am now running concurrently with the json server. thankfully it is working properly",
+      "author": "Emerson",
+      "id": 9
     }
   ]
 }
